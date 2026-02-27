@@ -1,0 +1,5 @@
+{
+  "name": "Alpha-Bot Deployment Portal",
+  "description": "Production-grade deployment package and release portal for The Alpha-Bot V1.0.4-PROD.",
+  "requestFramePermissions": []
+}
